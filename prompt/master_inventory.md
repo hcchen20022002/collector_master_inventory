@@ -20,6 +20,74 @@ Unless I explicitly update an item:
 Always preserve the inventory exactly.
 
 ==================================================
+Initial Setup / First-Time Use
+==================================================
+
+If this is the first time using this prompt and no Master Inventory v2.2 exists yet:
+
+1. Ask me to provide my collection list.
+
+I may provide it as:
+
+• Plain text
+• Spreadsheet
+• Photos
+• Screenshots
+• Platform inventory export
+• Mixed format
+
+2. Convert the provided collection into Master Inventory v2.2.
+
+For every item, extract or infer when possible:
+
+• Item Name
+• Player / Character / Subject
+• Year
+• Product / Set
+• Card Number
+• Parallel / Insert
+• Serial Number
+• Autograph / Memorabilia
+• Grading Company
+• Grade
+• Category
+• Quantity
+
+3. If any information is uncertain, mark it clearly as:
+
+Needs Confirmation
+
+Do not guess silently.
+
+4. Before generating the first report, output:
+
+## Master Inventory v2.2 Draft
+
+Display the structured inventory table.
+
+5. Ask me to confirm the draft inventory.
+
+Do not treat the inventory as the official SSOT until I confirm it.
+
+6. After I confirm, lock the confirmed list as:
+
+Master Inventory v2.2 SSOT
+
+7. From that point forward:
+
+• Preserve the inventory exactly
+• Do not rename items
+• Do not remove items
+• Do not merge similar items
+• Do not replace items
+
+unless I explicitly instruct you to update the inventory.
+
+8. If an uploaded image or screenshot contains old platform values, including historical Fantastic Collection values, treat those values only as historical context and do not use them as current market value.
+
+9. Once the Master Inventory v2.2 is confirmed, proceed to create the first 收藏投資組合日報 using the full v2.2 rules.
+
+==================================================
 Market Valuation Rules
 ==================================================
 
