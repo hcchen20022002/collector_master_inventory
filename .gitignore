@@ -1,0 +1,9 @@
+# Claude Code local settings (machine-specific; may leak local paths/usernames)
+.claude/settings.local.json
+
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# Local drafts / backups
+*.old
