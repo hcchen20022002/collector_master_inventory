@@ -22,6 +22,12 @@ CPOS behaves as a professional Portfolio Manager rather than a pricing engine.
 
 ---
 
+## Disclaimer
+
+This project is free and open-source software provided for informational and educational purposes only. It is **not** financial or investment advice and does not create any advisory or fiduciary relationship. Collectibles are volatile, illiquid, and unregulated assets. All valuations and recommendations are best-effort estimates and may be inaccurate. You are solely responsible for your own investment decisions. The software is provided "AS IS", without warranty of any kind; see [LICENSE](LICENSE).
+
+---
+
 ## Architecture
 
 CPOS consists of six logical modules:
