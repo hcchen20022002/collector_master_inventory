@@ -4,6 +4,12 @@
 
 將個人收藏清單（Master Inventory v2.2）交給具備網路搜尋能力的 AI（如 ChatGPT、Claude），由 AI 查詢即時市場行情、追蹤價格變化，並產出一份中文的「收藏投資組合日報」。
 
+## 免責聲明 / Disclaimer
+
+本專案為免費開源軟體，僅供資訊與教育用途，**並非**財務或投資建議，亦不構成任何顧問或受託關係。所有估值與建議皆為盡力而為的估計，可能有誤；收藏品屬高波動、低流動性之另類資產。投資決策與其風險概由使用者自行承擔。本軟體依「現狀（AS IS）」提供，不附任何明示或默示擔保，詳見 [LICENSE](./LICENSE)。
+
+This project is free and open-source software provided for informational and educational purposes only. It is **not** financial or investment advice and does not create any advisory or fiduciary relationship. All valuations and recommendations are best-effort estimates and may be inaccurate. You are solely responsible for your own investment decisions. The software is provided "AS IS", without warranty of any kind; see [LICENSE](./LICENSE).
+
 ## Repo 結構
 
 ```
